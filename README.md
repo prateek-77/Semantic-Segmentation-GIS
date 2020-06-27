@@ -12,3 +12,15 @@ This repository consists of a summary of my research based project work at **Reg
 4. Augmentor
 5. UNet (FastAI)
 6. DeepLab V3+ (TensorFlow 1)
+
+## Core Workflow
+
+![workflow](Media/Inf-2/workflow.png)
+
+## Results (DeepLab V3+ on SENTINEL Imagery)
+
+![1](Media/Inference/1.jpg)
+![2](Media/Inference/2.jpg)
+![3](Media/Inference/3.jpg)
+![6](Media/Inference/6.jpg)
+
