@@ -8,10 +8,11 @@ This repository consists of a summary of my research based project work at **Reg
 
 1. Google Earth Engine
 2. Google Colaboratory
-3. Geo-Processing Tools: GeoPandas, Rasterio, Supermercado, Rio-Tiler, Solaris
-4. Augmentor
-5. UNet (FastAI)
-6. DeepLab V3+ (TensorFlow 1)
+3. Geojson.io
+4. Geo-Processing Tools: GeoPandas, Rasterio, Supermercado, Rio-Tiler, Solaris
+5. Augmentor
+6. UNet (FastAI)
+7. DeepLab V3+ (TensorFlow 1)
 
 ## Core Workflow
 
@@ -28,11 +29,11 @@ This repository consists of a summary of my research based project work at **Reg
 
 ### DeepLab V3+ on SENTINEL Imagery
 
-![1](Media/Inf-2/1.jpg)
-![2](Media/Inf-2/2.jpg)
-![3](Media/Inf-2/3.jpg)
-![6](Media/Inf-2/6.jpg)
-![10](Media/Inf-2/10.jpg)
+![1](Media/Inference/1.jpg)
+![2](Media/Inference/2.jpg)
+![3](Media/Inference/3.jpg)
+![6](Media/Inference/6.jpg)
+![10](Media/Inference/10.jpg)
 
 ## References
 1. [Segmenting Buildings on Drone Imagery](https://medium.com/@anthropoco/how-to-segment-buildings-on-drone-imagery-with-fast-ai-cloud-native-geodata-tools-ae249612c321)
