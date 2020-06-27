@@ -17,10 +17,29 @@ This repository consists of a summary of my research based project work at **Reg
 
 ![workflow](Media/Inf-2/workflow.png)
 
-## Results (DeepLab V3+ on SENTINEL Imagery)
+## Results 
+### UNet on LANDSAT Imagery
+![1](Media/Inf-2/1.png)
+![2](Media/Inf-2/2.png)
+![3](Media/Inf-2/3.png)
+![4](Media/Inf-2/4.png)
 
-![1](Media/Inference/1.jpg)
-![2](Media/Inference/2.jpg)
-![3](Media/Inference/3.jpg)
-![6](Media/Inference/6.jpg)
+
+
+### DeepLab V3+ on SENTINEL Imagery
+
+![1](Media/Inf-2/1.jpg)
+![2](Media/Inf-2/2.jpg)
+![3](Media/Inf-2/3.jpg)
+![6](Media/Inf-2/6.jpg)
+![10](Media/Inf-2/10.jpg)
+
+## References
+1. [Segmenting Buildings on Drone Imagery](https://medium.com/@anthropoco/how-to-segment-buildings-on-drone-imagery-with-fast-ai-cloud-native-geodata-tools-ae249612c321)
+2. [DeepLab V3+](https://github.com/tensorflow/models/tree/master/research/deeplab)
+3. [DeepLab on Custom Dataset](http://hellodfan.com/2018/07/06/DeepLabv3-with-own-dataset/)
+3. [Google Earth Engine Documentation](https://developers.google.com/earth-engine)
+4. [GEE Tutorials](https://www.youtube.com/watch?v=W2V_awzKDOg&list=PLivRXhCUgrZpCR3iSByLYdd_VwFv-3mfs)
+
+
 
